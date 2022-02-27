@@ -1,7 +1,7 @@
 package com.mirkek.android.foodRecipeApp.di
 
-import com.mirkek.android.foodRecipeApp.Constants.Companion.BASE_URL
-import com.mirkek.android.foodRecipeApp.FoodRecipesApi
+import com.mirkek.android.foodRecipeApp.util.Constants.Companion.BASE_URL
+import com.mirkek.android.foodRecipeApp.data.network.FoodRecipesApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

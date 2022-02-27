@@ -1,4 +1,4 @@
-package com.mirkek.android.foodRecipeApp
+package com.mirkek.android.foodRecipeApp.data.network
 
 import com.mirkek.android.foodRecipeApp.models.FoodRecipe
 import retrofit2.Response

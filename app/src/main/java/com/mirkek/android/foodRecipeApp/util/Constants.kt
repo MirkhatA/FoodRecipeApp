@@ -1,4 +1,4 @@
-package com.mirkek.android.foodRecipeApp
+package com.mirkek.android.foodRecipeApp.util
 
 class Constants {
 
