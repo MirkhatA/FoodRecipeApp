@@ -1,4 +1,4 @@
-package com.mirkek.android.foodRecipeApp
+package com.mirkek.android.foodRecipeApp.models
 
 import com.google.gson.annotations.SerializedName
 

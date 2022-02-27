@@ -7,12 +7,12 @@
 
     <fragment
         android:id="@+id/recipesFragment"
-        android:name="com.mirkek.android.foodRecipeApp.RecipesFragment"
+        android:name="com.mirkek.android.foodRecipeApp.ui.fragments.resipes.RecipesFragment"
         android:label="Home"
         tools:layout="@layout/fragment_recipes" />
     <fragment
         android:id="@+id/favoriteFragment"
-        android:name="com.mirkek.android.foodRecipeApp.FavoriteFragment"
+        android:name="com.mirkek.android.foodRecipeApp.ui.fragments.favorites.FavoriteFragment"
         android:label="Favorites"
         tools:layout="@layout/fragment_favorite" />
 </navigation>
